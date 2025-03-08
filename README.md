@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jnavya12/LeetCode-Problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/jnavya12/LeetCode-Problem/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jnavya12/LeetCode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jnavya12/LeetCode-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Array
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jnavya12/LeetCode-Problem/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jnavya12/LeetCode-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
