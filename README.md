@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jnavya12/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/jnavya12/LeetCode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/jnavya12/LeetCode-Problem/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/jnavya12/LeetCode-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jnavya12/LeetCode-Problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/jnavya12/LeetCode-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jnavya12/LeetCode-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Dynamic Programming
 |  |
