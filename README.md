@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/jnavya12/LeetCode-Problem/tree/master/1777-determine-if-two-strings-are-close) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jnavya12/LeetCode-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/jnavya12/LeetCode-Problem/tree/master/2470-removing-stars-from-a-string) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jnavya12/LeetCode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jnavya12/LeetCode-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/jnavya12/LeetCode-Problem/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/2428-equal-row-and-column-pairs) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
 |  |
 | ------- |
