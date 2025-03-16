@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/jnavya12/LeetCode-Problem/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/2428-equal-row-and-column-pairs) |
+| [2665-minimum-time-to-repair-cars](https://github.com/jnavya12/LeetCode-Problem/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/jnavya12/LeetCode-Problem/tree/master/2690-house-robber-iv) |
 | [3483-alternating-groups-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3643-zero-array-transformation-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/jnavya12/LeetCode-Problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jnavya12/LeetCode-Problem/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2665-minimum-time-to-repair-cars](https://github.com/jnavya12/LeetCode-Problem/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/jnavya12/LeetCode-Problem/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
