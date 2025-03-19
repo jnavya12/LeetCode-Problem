@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/jnavya12/LeetCode-Problem/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/jnavya12/LeetCode-Problem/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/jnavya12/LeetCode-Problem/tree/master/2690-house-robber-iv) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jnavya12/LeetCode-Problem/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/jnavya12/LeetCode-Problem/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/jnavya12/LeetCode-Problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/jnavya12/LeetCode-Problem/tree/master/1833-find-the-highest-altitude) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jnavya12/LeetCode-Problem/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jnavya12/LeetCode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jnavya12/LeetCode-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/jnavya12/LeetCode-Problem/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jnavya12/LeetCode-Problem/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/jnavya12/LeetCode-Problem/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/jnavya12/LeetCode-Problem/tree/master/0969-number-of-recent-calls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jnavya12/LeetCode-Problem/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -156,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/jnavya12/LeetCode-Problem/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jnavya12/LeetCode-Problem/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
