@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jnavya12/LeetCode-Problem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jnavya12/LeetCode-Problem/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jnavya12/LeetCode-Problem/tree/master/1777-determine-if-two-strings-are-close) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jnavya12/LeetCode-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jnavya12/LeetCode-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/jnavya12/LeetCode-Problem/tree/master/2470-removing-stars-from-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jnavya12/LeetCode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/jnavya12/LeetCode-Problem/tree/master/1833-find-the-highest-altitude) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jnavya12/LeetCode-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/2428-equal-row-and-column-pairs) |
 | [2478-longest-nice-subarray](https://github.com/jnavya12/LeetCode-Problem/tree/master/2478-longest-nice-subarray) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jnavya12/LeetCode-Problem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/jnavya12/LeetCode-Problem/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jnavya12/LeetCode-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/2428-equal-row-and-column-pairs) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -170,5 +173,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jnavya12/LeetCode-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jnavya12/LeetCode-Problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jnavya12/LeetCode-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
