@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/jnavya12/LeetCode-Problem/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/jnavya12/LeetCode-Problem/tree/master/2690-house-robber-iv) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jnavya12/LeetCode-Problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/jnavya12/LeetCode-Problem/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jnavya12/LeetCode-Problem/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/jnavya12/LeetCode-Problem/tree/master/3643-zero-array-transformation-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/jnavya12/LeetCode-Problem/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3430-count-days-without-meetings](https://github.com/jnavya12/LeetCode-Problem/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
 | ------- |
