@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/2428-equal-row-and-column-pairs) |
 | [2478-longest-nice-subarray](https://github.com/jnavya12/LeetCode-Problem/tree/master/2478-longest-nice-subarray) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jnavya12/LeetCode-Problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/jnavya12/LeetCode-Problem/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/jnavya12/LeetCode-Problem/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jnavya12/LeetCode-Problem/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/jnavya12/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jnavya12/LeetCode-Problem/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jnavya12/LeetCode-Problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/jnavya12/LeetCode-Problem/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jnavya12/LeetCode-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jnavya12/LeetCode-Problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jnavya12/LeetCode-Problem/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/jnavya12/LeetCode-Problem/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jnavya12/LeetCode-Problem/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jnavya12/LeetCode-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/2428-equal-row-and-column-pairs) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jnavya12/LeetCode-Problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jnavya12/LeetCode-Problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/jnavya12/LeetCode-Problem/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jnavya12/LeetCode-Problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -202,9 +207,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jnavya12/LeetCode-Problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/jnavya12/LeetCode-Problem/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jnavya12/LeetCode-Problem/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/jnavya12/LeetCode-Problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
