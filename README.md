@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jnavya12/LeetCode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jnavya12/LeetCode-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jnavya12/LeetCode-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/jnavya12/LeetCode-Problem/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/jnavya12/LeetCode-Problem/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jnavya12/LeetCode-Problem/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jnavya12/LeetCode-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jnavya12/LeetCode-Problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/jnavya12/LeetCode-Problem/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/jnavya12/LeetCode-Problem/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/jnavya12/LeetCode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/jnavya12/LeetCode-Problem/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/jnavya12/LeetCode-Problem/tree/master/0649-dota2-senate) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jnavya12/LeetCode-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jnavya12/LeetCode-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jnavya12/LeetCode-Problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/jnavya12/LeetCode-Problem/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jnavya12/LeetCode-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/jnavya12/LeetCode-Problem/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jnavya12/LeetCode-Problem/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/jnavya12/LeetCode-Problem/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/jnavya12/LeetCode-Problem/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/jnavya12/LeetCode-Problem/tree/master/2470-removing-stars-from-a-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/jnavya12/LeetCode-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 ## Recursion
 |  |
 | ------- |
@@ -217,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jnavya12/LeetCode-Problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/jnavya12/LeetCode-Problem/tree/master/3001-apply-operations-to-maximize-score) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/jnavya12/LeetCode-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
