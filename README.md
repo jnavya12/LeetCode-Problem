@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/jnavya12/LeetCode-Problem/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/jnavya12/LeetCode-Problem/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/jnavya12/LeetCode-Problem/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/jnavya12/LeetCode-Problem/tree/master/0768-partition-labels) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jnavya12/LeetCode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jnavya12/LeetCode-Problem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jnavya12/LeetCode-Problem/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/jnavya12/LeetCode-Problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/jnavya12/LeetCode-Problem/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/jnavya12/LeetCode-Problem/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/jnavya12/LeetCode-Problem/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jnavya12/LeetCode-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 ## Two Pointers
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jnavya12/LeetCode-Problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/jnavya12/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jnavya12/LeetCode-Problem/tree/master/0443-string-compression) |
+| [0768-partition-labels](https://github.com/jnavya12/LeetCode-Problem/tree/master/0768-partition-labels) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jnavya12/LeetCode-Problem/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Prefix Sum
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/jnavya12/LeetCode-Problem/tree/master/0768-partition-labels) |
 | [1319-unique-number-of-occurrences](https://github.com/jnavya12/LeetCode-Problem/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jnavya12/LeetCode-Problem/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jnavya12/LeetCode-Problem/tree/master/1460-number-of-substrings-containing-all-three-characters) |
