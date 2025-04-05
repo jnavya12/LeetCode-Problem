@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jnavya12/LeetCode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jnavya12/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jnavya12/LeetCode-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jnavya12/LeetCode-Problem/tree/master/3001-apply-operations-to-maximize-score) |
 ## String
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jnavya12/LeetCode-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/jnavya12/LeetCode-Problem/tree/master/1833-find-the-highest-altitude) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jnavya12/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jnavya12/LeetCode-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jnavya12/LeetCode-Problem/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/jnavya12/LeetCode-Problem/tree/master/2262-solving-questions-with-brainpower) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jnavya12/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/jnavya12/LeetCode-Problem/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/jnavya12/LeetCode-Problem/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/jnavya12/LeetCode-Problem/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -253,4 +256,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jnavya12/LeetCode-Problem/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jnavya12/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jnavya12/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jnavya12/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
