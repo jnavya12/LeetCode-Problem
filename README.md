@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/jnavya12/LeetCode-Problem/tree/master/0368-largest-divisible-subset) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jnavya12/LeetCode-Problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jnavya12/LeetCode-Problem/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/jnavya12/LeetCode-Problem/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jnavya12/LeetCode-Problem/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/jnavya12/LeetCode-Problem/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jnavya12/LeetCode-Problem/tree/master/3001-apply-operations-to-maximize-score) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/jnavya12/LeetCode-Problem/tree/master/0394-decode-string) |
+| [2050-count-good-numbers](https://github.com/jnavya12/LeetCode-Problem/tree/master/2050-count-good-numbers) |
 ## Design
 |  |
 | ------- |
